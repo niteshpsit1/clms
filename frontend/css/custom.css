@@ -1,0 +1,74 @@
+.dashboard-header{
+    padding: 0px 15px;
+}
+
+.ibox-content{
+    padding:15px 15px 15px 15px;
+}
+.wrapper-content{
+    padding:10px 10px 30px 10px;
+}
+
+/* panel group start */
+.custom-panel-group{
+
+}
+.custom-panel-group .panel + .panel{
+    margin-top:5px;
+}
+.custom-panel-group .panel
+{
+    background-color:transparent;
+}
+.custom-panel-group .panel-default{
+    
+}
+.custom-panel-group .panel-default > .panel-heading{
+    background-color:transparent;
+    padding:5px 10px;
+}
+.custom-panel-group .panel-default > .panel-heading > h5{
+    margin-bottom:5px;
+}
+/* panel group end */
+
+/* For grid */
+
+.ibox.custom-ibox {
+    margin-bottom:0px;
+}
+.ibox.custom-ibox .table{
+    font-size:11px;
+    margin-bottom:0;    
+}
+
+.ibox.custom-ibox .table > thead > tr > th, 
+.ibox.custom-ibox .table > tbody > tr > th, 
+.ibox.custom-ibox .table > tfoot > tr > th {
+    padding:10px 6px;
+}
+.ibox.custom-ibox .table > thead > tr > td, 
+.ibox.custom-ibox .table > tbody > tr > td, 
+.ibox.custom-ibox .table > tfoot > tr > td{
+    padding:6px 6px;
+}
+
+.ibox.custom-ibox .table > tbody > tr:hover{
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+.ibox.custom-ibox .table input[type="checkbox"]{
+    margin-top:0;
+}
+.ibox.custom-ibox .table .btn{
+    margin-bottom:0;
+}
+
+.ibox.custom-ibox .custom-footer .form-control{
+    font-size:11px;
+    padding:2px;
+    width:50px;
+    line-height:1.5;
+    height:22px;
+}

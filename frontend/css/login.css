@@ -1,0 +1,34 @@
+
+html, body {
+    height: 100%;
+    font-size: 90%;
+    color: #666;
+}
+
+.mainContainer {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+#usersForm {
+    padding-top: 2.5em;
+    padding-right: 2.5em;
+}
+
+#login-box-wrapper {
+    text-align: center;
+    width: 100%;
+}
+
+#login-box-wrapper div {
+    text-align: left;
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#loginResult {
+    margin: 2em auto 1.5em auto;
+    font-size: 1.1em;
+}
